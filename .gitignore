@@ -4,7 +4,10 @@
 *.o
 *.py~
 workspace_dev/*
-workspace/*
+workspace/A*/*.pdf
+workspace/A*/*.pkl
+workspace/A*/*submit*.py
 software/models_interface/output_sounds/*.wav
 software/transformations_interface/output_sounds/*.wav
 .ipynb_checkpoints/
+.idea
